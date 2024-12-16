@@ -9,7 +9,6 @@ J'ai décidé de me lancer dans ce projet pour les raisons suivantes :
 
 ## Captures d'écran
 <div align="center">
-  <img src="screenshots/menu_accueil.png" alt="Menu Accueil" width="400">
-  <img width="50" />
-  <img src="screenshots/jeu.png" alt="Jeu" width="400">
+  <img src="screenshots/menu_accueil.png" alt="Menu Accueil" width="500">
+  <img src="screenshots/jeu.png" alt="Jeu" width="500">
 </div>
